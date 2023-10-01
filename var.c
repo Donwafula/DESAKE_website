@@ -21,9 +21,8 @@ void loop(int x)
   */
 int main(void)
 {
-	int x;
-	
-	x = 0;
-	loop(x);
+	int x = 0;
+
+	loop (x);
 	return (0);
 }
